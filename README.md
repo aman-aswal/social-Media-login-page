@@ -1,4 +1,4 @@
-# Instagram Login Page Clone
+# Instagram Login Page(basic)
 
 ## Table of Contents
 - [Introduction](#introduction)
